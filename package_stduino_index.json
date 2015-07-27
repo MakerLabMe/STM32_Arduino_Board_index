@@ -14,7 +14,7 @@
           "architecture": "stm32",
           "version": "1.6.0",
           "category": "Stduino",
-          "url": "http://localhost:5000/stduino-1.6.0.zip",
+          "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/boards/stduino-1.6.0.zip",
           "archiveFileName": "stduino-1.6.0.zip",
           "checksum": "SHA-256:2faa5666c36da51c2ac28ae647776e754937f9f371727d95fe5aea730181f2b6",
           "size": "4877442",
@@ -27,7 +27,7 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "arduino",
+              "packager": "stduino",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },
@@ -53,7 +53,7 @@
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "http://http://localhost:5000/gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
               "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-mac.tar.gz",
               "checksum": "SHA-256:3598acf21600f17a8e4a4e8e193dc422b894dc09384759b270b2ece5facb59c2",
               "size": "52518522"
@@ -80,31 +80,31 @@
           "systems": [
             {
               "host": "i686-linux-gnu",
-              "url": "http://http://localhost:5000/sloadhost-1.0.zip",
-              "archiveFileName": "sloadhost-1.0.zip",
+              "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/tools/sloadhost-1.0-Mac.zip",
+              "archiveFileName": "sloadhost-1.0-Mac.zip",
               "checksum": "SHA-256:4c5521920f3d38d5944be4256cb2f2b04d5391d2ea22604ccabc3d91d7388ef1",
               "size": "12127"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "http://downloads.arduino.cc/tools/bossac-1.3a-arduino-x86_64-pc-linux-gnu.tar.bz2",
-              "archiveFileName": "bossac-1.3a-arduino-x86_64-pc-linux-gnu.tar.bz2",
-              "checksum": "SHA-256:c1daed033251296768fa8b63ad283e053da93427c0f3cd476a71a9188e18442c",
-              "size": "26179"
+              "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/tools/sloadhost-1.0-Mac.zip",
+              "archiveFileName": "sloadhost-1.0-Mac.zip",
+              "checksum": "SHA-256:4c5521920f3d38d5944be4256cb2f2b04d5391d2ea22604ccabc3d91d7388ef1",
+              "size": "12127"
             },
             {
               "host": "i686-mingw32",
-              "url": "http://downloads.arduino.cc/tools/bossac-1.3a-arduino-i686-mingw32.tar.bz2",
-              "archiveFileName": "bossac-1.3a-arduino-i686-mingw32.tar.bz2",
-              "checksum": "SHA-256:a37727622e0f86cb4f2856ad0209568a5d804234dba3dc0778829730d61a5ec7",
-              "size": "265647"
+              "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/tools/sloadhost-1.0-Windows.zip",
+              "archiveFileName": "sloadhost-1.0-Windows.zip",
+              "checksum": "SHA-256:4c5521920f3d38d5944be4256cb2f2b04d5391d2ea22604ccabc3d91d7388ef1",
+              "size": "12127"
             },
             {
               "host": "i386-apple-darwin11",
-              "url": "http://localhost:5000/sloadhost-1.0.zip",
-              "archiveFileName": "sloadhost-1.0.zip",
+              "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/tools/sloadhost-1.0-Mac.zip",
+              "archiveFileName": "sloadhost-1.0-Mac.zip",
               "checksum": "SHA-256:4c5521920f3d38d5944be4256cb2f2b04d5391d2ea22604ccabc3d91d7388ef1",
-              "size": "39475"
+              "size": "12127"
             }
           ]
         },
@@ -114,31 +114,31 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "http://downloads.arduino.cc/CMSIS-4.0.0.tar.bz2",
-              "archiveFileName": "CMSIS-4.0.0.tar.bz2",
-              "checksum": "SHA-256:7d637d2d7a0c6bacc22065848a201db2fff124268e4a56868260d0f472b4bbb7",
-              "size": "17642623"
+              "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/tools/CMSIS.zip",
+              "archiveFileName": "CMSIS.zip",
+              "checksum": "SHA-256:b3ae8f0d4d7048d01813e99987b718eec71937a1fdf21b855b3a55b81b60ea63",
+              "size": "18217707"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "http://localhost:5000/CMSIS.zip",
+              "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/tools/CMSIS.zip",
               "archiveFileName": "CMSIS.zip",
               "checksum": "SHA-256:b3ae8f0d4d7048d01813e99987b718eec71937a1fdf21b855b3a55b81b60ea63",
               "size": "18217707"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "http://downloads.arduino.cc/CMSIS-4.0.0.tar.bz2",
-              "archiveFileName": "CMSIS-4.0.0.tar.bz2",
-              "checksum": "SHA-256:7d637d2d7a0c6bacc22065848a201db2fff124268e4a56868260d0f472b4bbb7",
-              "size": "17642623"
+              "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/tools/CMSIS.zip",
+              "archiveFileName": "CMSIS.zip",
+              "checksum": "SHA-256:b3ae8f0d4d7048d01813e99987b718eec71937a1fdf21b855b3a55b81b60ea63",
+              "size": "18217707"
             },
             {
               "host": "i686-pc-linux-gnu",
-              "url": "http://downloads.arduino.cc/CMSIS-4.0.0.tar.bz2",
-              "archiveFileName": "CMSIS-4.0.0.tar.bz2",
-              "checksum": "SHA-256:7d637d2d7a0c6bacc22065848a201db2fff124268e4a56868260d0f472b4bbb7",
-              "size": "17642623"
+              "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/tools/CMSIS.zip",
+              "archiveFileName": "CMSIS.zip",
+              "checksum": "SHA-256:b3ae8f0d4d7048d01813e99987b718eec71937a1fdf21b855b3a55b81b60ea63",
+              "size": "18217707"
             }
           ]
         }
