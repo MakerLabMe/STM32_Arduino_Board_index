@@ -14,8 +14,8 @@
           "architecture": "stm32",
           "version": "1.6.0",
           "category": "Stduino",
-          "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/boards/stduino-1.6.0.zip",
-          "archiveFileName": "stduino-1.6.0.zip",
+          "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/boards/stduino-1.6.0.tar.bz2",
+          "archiveFileName": "stduino-1.6.0.tar.bz2",
           "checksum": "SHA-256:2e694691555f9b999c2344015304b160de410655f06c39570d2813fadac02f67",
           "size": "21688183",
           "help":{
