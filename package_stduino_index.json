@@ -82,15 +82,15 @@
               "host": "i686-linux-gnu",
               "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/tools/sloadhost-1.0-Mac.zip",
               "archiveFileName": "sloadhost-1.0-Mac.zip",
-              "checksum": "SHA-256:0aaf12c963c1c6faf9e542693a924ec35dd6e0ce6299358a62f2ebfa97c13a6d",
-              "size": "11967"
+              "checksum": "SHA-256:586e69e340fac54f52678fcf6b864174cb663c9e8c36ce46e5acdced66d88aec",
+              "size": "12066"
             },
             {
               "host": "x86_64-pc-linux-gnu",
               "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/tools/sloadhost-1.0-Mac.zip",
               "archiveFileName": "sloadhost-1.0-Mac.zip",
-              "checksum": "SHA-256:0aaf12c963c1c6faf9e542693a924ec35dd6e0ce6299358a62f2ebfa97c13a6d",
-              "size": "11967"
+              "checksum": "SHA-256:586e69e340fac54f52678fcf6b864174cb663c9e8c36ce46e5acdced66d88aec",
+              "size": "12066"
             },
             {
               "host": "i686-mingw32",
@@ -103,8 +103,8 @@
               "host": "i386-apple-darwin11",
               "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/tools/sloadhost-1.0-Mac.zip",
               "archiveFileName": "sloadhost-1.0-Mac.zip",
-              "checksum": "SHA-256:0aaf12c963c1c6faf9e542693a924ec35dd6e0ce6299358a62f2ebfa97c13a6d",
-              "size": "11967"
+              "checksum": "SHA-256:586e69e340fac54f52678fcf6b864174cb663c9e8c36ce46e5acdced66d88aec",
+              "size": "12066"
             }
           ]
         },
