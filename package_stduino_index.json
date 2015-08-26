@@ -96,8 +96,8 @@
               "host": "i686-mingw32",
               "url": "http://makerlabme.github.io/STM32_Arduino_Board_index/tools/sloadhost-1.0-Windows.zip",
               "archiveFileName": "sloadhost-1.0-Windows.zip",
-              "checksum": "SHA-256:f25e87355dd7120893279b097e926f7cea8f9895aabca3e77bbbe12d2fc12595",
-              "size": "16971"
+              "checksum": "SHA-256:81f134777aeae6be2363d0e692ea87ae2f103515cdb7a7d78d0682a652e06739",
+              "size": "16979"
             },
             {
               "host": "i386-apple-darwin11",
